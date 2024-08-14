@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="42px" viewBox="0 0 42 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 29</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Course-Detail" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Course-Detail---Layout-1" transform="translate(-113.000000, -508.000000)">
+            <g id="Group-34-Copy" transform="translate(0.000000, 116.000000)">
+                <g id="Group-29" transform="translate(113.000000, 392.000000)">
+                    <rect id="Rectangle" stroke="#979797" fill="#D8D8D8" opacity="0" x="0.5" y="0.5" width="41" height="41"></rect>
+                    <g filter="url(#filter-1)" id="icons8-student-male">
+                        <g transform="translate(6.000000, 6.000000)">
+                            <path d="M23.8,12.92 L23.8,15.64 C23.8,15.64 25.84,15.41832 25.84,17.83096 C25.84,19.08216 25.01788,20.27488 23.8,20.4 C22.06192,24.90296 19.2542,29.92 14.96272,29.92 M14.95728,29.92 C10.6658,29.92 7.85808,24.90296 6.12,20.4 C4.90212,20.27488 4.08,19.08216 4.08,17.83096 C4.08,15.41832 6.12,15.64 6.12,15.64 L6.12,12.92" id="Shape" stroke="#000000" stroke-width="1.36" stroke-linecap="round"></path>
+                            <path d="M1.36,10.88 C1.36,13.18792 1.37088,20.13752 1.37088,20.13752" id="Path" stroke="#000000" stroke-width="1.40488" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M2.72,22.41824 C2.72,23.42192 1.36,25.16 1.36,25.16 C1.36,25.16 0,23.38996 0,22.41824 C0,21.67976 0.6086,21.08 1.36,21.08 C2.1114,21.08 2.72,21.67976 2.72,22.41824 Z" id="Path" stroke="#000000" stroke-width="1.36" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M1.36,19.04 C0.60889274,19.04 0,19.6488927 0,20.4 C0,21.1511073 0.60889274,21.76 1.36,21.76 C2.11110726,21.76 2.72,21.1511073 2.72,20.4 C2.72,19.6488927 2.11110726,19.04 1.36,19.04 Z" id="Path" fill="#000000" fill-rule="nonzero"></path>
+                            <path d="M24.48,14.96 C24.48,14.96 29.94448,9.70972 29.920082,9.28948 C29.89552,8.86992 15.5924,0.17068 15.5924,0.17068 C15.20004,-0.05712 14.71928,-0.05712 14.32692,0.17068 C14.32692,0.17068 0.02448,8.86924 -8.20049173e-05,9.28948 C-0.02448,9.7104 5.44,14.96 5.44,14.96" id="Path" stroke="#000000" stroke-width="1.40488" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M23.8,14.96 C23.8,14.96 20.35376,13.6 14.96,13.6 C9.56624,13.6 6.12,14.96 6.12,14.96 L6.12,10.88 C6.12,10.88 9.46152,8.84 14.96,8.84 C20.45848,8.84 23.8,10.88 23.8,10.88 L23.8,14.96 Z" id="Path" stroke="#000000" stroke-width="1.40488" stroke-linecap="round" stroke-linejoin="round"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

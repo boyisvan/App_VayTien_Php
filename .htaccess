@@ -1,0 +1,36 @@
+RewriteEngine On
+RewriteCond %{HTTPS} !=on [NC]
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
+
+RewriteRule ^Home$ public/client/Home.php [L]
+RewriteRule ^Auth$ public/client/Auth.php [L]
+RewriteRule ^Logout$ public/client/Logout.php [L]
+RewriteRule ^Signup$ public/client/Signup.php [L]
+RewriteRule ^notifications$ public/client/Notifications.php [L]
+RewriteRule ^me$ public/client/Me.php [L]
+RewriteRule ^verify$ public/client/Verify.php [L]
+RewriteRule ^wallet$ public/client/Wallet.php [L]
+RewriteRule ^vay$ public/client/Vay.php [L]
+RewriteRule ^detail-profile$ public/client/Detailprofile.php [L]
+RewriteRule ^contracts$ public/client/Contracts.php [L]
+RewriteRule ^sussContracts$ public/client/sussContracts.php [L]
+RewriteRule ^my-contract$ public/client/Mycontract.php [L]
+
+
+
+RewriteRule ^Admin$ public/admin/Dashboard.php [L]
+RewriteRule ^Admin/Home$ public/admin/Home.php [L]
+RewriteRule ^Admin/Users$ public/admin/Users.php [L]
+RewriteRule ^Admin/Users/Role$ public/admin/UsersRole.php [L]
+RewriteRule ^Admin/Cskh/Manage$ public/admin/Cskhmanage.php [L]
+RewriteRule ^Admin/Cskh/User$ public/admin/Cskhuser.php [L]
+RewriteRule ^Admin/Cskh/Permission$ public/admin/Permissionuser.php [L]
+RewriteRule ^Admin/Loadinfo/User$ public/admin/Loadinfouser.php [L]
+RewriteRule ^Admin/Setting/Notification$ public/admin/Notification.php [L]
+RewriteRule ^Admin/Setting/Home$ public/admin/SettingHome.php [L]
+
+
+
+
+
+
